@@ -1,7 +1,7 @@
-## gm_sdk
+## gmsdk
 
 #### usage
 
 ```
-npm i gm_sdk
+npm i gmsdk
 ```
